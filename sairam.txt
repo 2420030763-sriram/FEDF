@@ -1,1 +1,28 @@
-Github
+git init
+
+git config --global user.name "nirmalajyothi911"
+
+git config --global user.email "nirmala.narisetty@klh.edu.in"
+
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My First Git Project</title>
+</head>
+<body>
+  <h1>Your Name</h1>
+  <h2>Web Developer</h2>
+  
+</body>
+</html>
+
+
+git add demo.txt
+git add .
+git commit -m "demo.txt created"
+
+git branch dev-branch
+git checkout dev-branch
+create email.txt, execute add, commit commands
+switch to master and observe files
